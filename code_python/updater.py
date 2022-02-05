@@ -12,7 +12,7 @@ import sys
 
 
 # YAML file containing database login credentials (renamed from creds_template.yaml)
-cred_file = "./creds.yaml"
+cred_file = "creds.yaml"
 if not os.path.exists(cred_file):
     print("creds.yaml not found: did you rename creds_template.yaml?")
     sys.exit()

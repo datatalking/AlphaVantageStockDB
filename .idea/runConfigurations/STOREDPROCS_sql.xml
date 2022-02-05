@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="STOREDPROCS.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/code_mysql/STOREDPROCS.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="df8b2693-450c-4e72-b80d-efaac25604cc" />
+    <method v="2" />
+  </configuration>
+</component>
